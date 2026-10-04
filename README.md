@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dante Mota 👋</h1>
-<h3 align="center">Data Analyst · Product & Growth Analytics for SaaS</h3>
+<h3 align="center">Data Analyst · Turning Complex Data into Business Decisions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dante-mota/"><img src="https://img.shields.io/badge/LinkedIn-Dante%20Mota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -7,9 +7,9 @@
 </p>
 
 ## About me
-- 📊 Data analyst focused on **funnels, retention cohorts, A/B testing, and KPI dashboards** for subscription and SaaS businesses.
+- 📊 Data analyst focused on **funnels, retention cohorts, A/B testing, and KPI dashboards** across industries.
 - ⚙️ Background in electronic and instrumentation engineering, which shapes my rigor with data quality and measurement.
-- 🌎 Bilingual (English/Spanish), based in Mexico, open to **remote Data Analyst roles at SaaS companies**.
+- 🌎 Bilingual (English/Spanish), based in Mexico, open to **remote Data Analyst roles**.
 
 ## Tech stack
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -41,4 +41,4 @@ Profitability, conversion funnel, retention cohorts, and an A/B test on a subscr
 | [Electronics retail analysis](https://github.com/dantemota12/electronics-retail-sales-analysis) | Data cleaning and KPIs on 753 sales transactions | Google Sheets |
 
 ## Let's connect
-I'm always happy to talk about product analytics, experimentation, and data storytelling. Reach me on [LinkedIn](https://www.linkedin.com/in/dante-mota/).
+I'm always happy to talk about analytics, experimentation, and data storytelling. Reach me on [LinkedIn](https://www.linkedin.com/in/dante-mota/).
