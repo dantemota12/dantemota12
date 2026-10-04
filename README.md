@@ -33,11 +33,11 @@ Profitability, conversion funnel, retention cohorts, and an A/B test on a subscr
 ## Featured projects
 | Project | What it shows | Tools |
 |---|---|---|
-| [MercadoLibre funnel & retention](https://github.com/dantemota12/mercadolibre-funnel-retention-analysis) | Funnel narrows from 76.9% item selection to 1.25% purchase; steepest loss between item selection and add to cart | SQL |
+| [MercadoLibre funnel & retention](https://github.com/dantemota12/mercadolibre-funnel-retention-analysis-sql) | Funnel narrows from 76.9% item selection to 1.25% purchase; steepest loss between item selection and add to cart | SQL |
 | [Landing page A/B test](https://github.com/dantemota12/landing-page-ab-test-analysis) | Page B lifted conversion from 12.57% to 15.96% (p < 0.001) | Python, SciPy |
 | [ConnectaTel churn & segmentation](https://github.com/dantemota12/connectatel-customer-behavior-analysis) | High-usage customers churn at 14.0% vs. ~11.5% in other tiers | Python, pandas |
-| [Real estate dashboard](https://github.com/dantemota12/real-estate-sales-dashboard) | 11.14% YoY growth and a customer repurchase cohort matrix | Tableau |
-| [Walmart sales dashboard](https://github.com/dantemota12/walmart-sales-performance-dashboard) | Department efficiency and share of sales with an interactive selector | Google Sheets |
+| [Real estate dashboard](https://github.com/dantemota12/real-estate-sales-performance-dashboard) | 11.14% YoY growth and a customer repurchase cohort matrix | Tableau |
+| [Walmart sales dashboard](https://github.com/dantemota12/walmart-sales-dashboard-2012) | Department efficiency and share of sales with an interactive selector | Google Sheets |
 | [Electronics retail analysis](https://github.com/dantemota12/electronics-retail-sales-analysis) | Data cleaning and KPIs on 753 sales transactions | Google Sheets |
 
 ## Let's connect
