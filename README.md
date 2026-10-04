@@ -41,4 +41,6 @@ Profitability, conversion funnel, retention cohorts, and an A/B test on a subscr
 | [Electronics retail analysis](https://github.com/dantemota12/electronics-retail-sales-analysis) | Data cleaning and KPIs on 753 sales transactions | Google Sheets |
 
 ## Let's connect
-I'm always happy to talk about analytics, experimentation, and data storytelling. Reach me on [LinkedIn](https://www.linkedin.com/in/dante-mota/).
+I'm always happy to talk about product analytics, experimentation, and data storytelling. 
+* **LinkedIn:** [linkedin.com/in/dante-mota](https://www.linkedin.com/in/dante-mota/)
+* **Email:** [dante.mota@outlook.com](mailto:dante.mota@outlook.com)
