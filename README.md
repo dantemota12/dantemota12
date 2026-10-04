@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## ⭐ Flagship project: RappiPlus end-to-end business diagnostic
-![RappiPlus dashboard](assets/rappiplus-dashboard.png)
+![RappiPlus dashboard](rappiplus-dashboard.png)
 
 Profitability, conversion funnel, retention cohorts, and an A/B test on a subscription service, from raw data to an executive Power BI dashboard.
 
